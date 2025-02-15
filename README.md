@@ -1,38 +1,53 @@
-👋 Hello, I'm Abdul Basit Khan!
+# 👋 Hello, I'm Abdul Basit Khan!
 
-💻 About Me
+[![GitHub followers](https://img.shields.io/github/followers/ABK998?style=social)](https://github.com/ABK998)
+[![GitHub stars](https://img.shields.io/github/stars/ABK998?style=social)](https://github.com/ABK998)
 
-I'm a Software Engineering Student with a strong passion for Coding and Game Development. I love building Applications, experimenting with new technologies, and continuously improving my skills.
+## 💻 About Me
+I'm a **Software Engineering Student** with a strong passion for **Coding and Game Development**. I love building applications, experimenting with new technologies, and continuously improving my skills.
 
-🎮 Game Development Enthusiast
+## 🎮 Game Development Enthusiast
+Currently focusing on **Unity Game Development** and planning to explore **Unreal Engine** in the future. I enjoy designing **Gameplay Mechanics, Optimizing Performance, and bringing creative ideas to life** through interactive experiences.
 
-Currently focusing on Unity Game Development and planning to explore Unreal Engine in the future. I enjoy designing Gameplay Mechanics, Optimizing Performance, and bringing creative ideas to life through interactive experiences.
+## 🔧 Tech Stack & Skills
 
-🔧 Tech Stack & Skills:
+### 🖥️ Programming Languages
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-1. Programming Languages: C++, Java, Python, C#.
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-darkblue?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-2. Game Engines: Unity (C#), Unreal Engine (future goal).
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Weka](https://img.shields.io/badge/Weka-darkred?style=for-the-badge&logo=weka&logoColor=white)
 
-3. Development Tools: Git, Visual Studio, Weka (for machine learning).
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-lightblue?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 
-3. Databases: SQL, MongoDB.
+## 🚀 Learning & Projects
 
-🚀 Learning & Projects:
+- 🎯 Improving my **game programming skills**
+- 📚 Exploring **machine learning with Java and Weka**
+- 🛠️ Working on **personal coding projects & game prototypes**
 
-1. 🎯 Improving my game programming skills.
+## 🌱 Goals
+-  Become proficient in **Game Development**
+-  Contribute to **open-source projects**
+-  Participate in **Game Jams and Coding Competitions**
 
-2. 📚 Exploring machine learning with Java and Weka.
+## 📊 GitHub Stats
 
-3. 🛠️ Working on personal coding projects & game prototypes.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABK998&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABK998&layout=compact&theme=tokyonight)
 
-🌱 Goals:
+## 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abdul-basit-khan-b8225a320)
 
-1. Become proficient in Game Development.
-
-2. Contribute to open-source projects.
-
-3. Participate in Game Jams and Coding Competitions.
-
-📬 Let's Connect! Feel free to reach out for collaboration, discussions, or just to say hi!
-
+---
+*Let's build something amazing together!* 🚀
