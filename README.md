@@ -47,7 +47,8 @@ Currently focusing on **Unity Game Development** and planning to explore **Unrea
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABK998&layout=compact&theme=tokyonight)
 
 ## 📬 Let's Connect!
-[Connect with me on LinkedIn](https://bit.ly/4hBhfU4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/4hBhfU4)
+
 
 
 ---
