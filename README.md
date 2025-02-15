@@ -47,7 +47,7 @@ Currently focusing on **Unity Game Development** and planning to explore **Unrea
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABK998&layout=compact&theme=tokyonight)
 
 ## 📬 Let's Connect!
-<a href="www.linkedin.com/in/abdul-basit-khan-b8225a320" target="_blank">Connect with me on LinkedIn</a>
+<a href="bit.ly/4hBhfU4" target="_blank">Connect with me on LinkedIn</a>
 
 
 ---
