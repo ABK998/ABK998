@@ -32,7 +32,7 @@ Currently focusing on Unity Game Development and planning to explore Unreal Engi
 
 2. Contribute to open-source projects.
 
-3. Participate in game jams and coding competitions.
+3. Participate in Game Jams and Coding Competitions.
 
 📬 Let's Connect! Feel free to reach out for collaboration, discussions, or just to say hi!
 
